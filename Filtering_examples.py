@@ -4,4 +4,4 @@ while word.lower() != "stop":
         print(word)
     word = input()
 
-    #random ass commit
+    
